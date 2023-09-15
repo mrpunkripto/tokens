@@ -1,0 +1,11 @@
+{
+  "name": "Football coin",
+  "website": "www.mashida.io",
+  "description": "Interact, Play and Earn in Web3 World",
+  "explorer": "https://bscscan.com/token/0x06ce168ff4ca760768f42c440d4266ba705e2f21",
+  "type": "BEP20",
+  "symbol": "MSHD",
+  "decimals": 9,
+  "status": "active",
+  "id": "0x06CE168FF4Ca760768f42C440d4266BA705E2F21"
+}
