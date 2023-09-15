@@ -1,0 +1,11 @@
+{ 
+"name": "Mashida Token,
+"website": "https://mashida.io/",
+"description": "Interact, Play and Earn in Web3 World, The Mashida is comprised of GameFi, SocialFi and NFTFi elements and built on blockchain technology. Mashida is a BEP20 Token and a Web3 Platform that contains a Virtual world and Social and Game application features that are interconnected, and people can interact virtually, work, play, and meet based on activity and interaction. ",
+"explorer": "https://bscscan.com/token/0x06ce168ff4ca760768f42c440d4266ba705e2f21",
+"type": "BEP20",
+"symbol": "MSHD",
+"decimals": 9,
+"status": "active",
+"id": "0x06CE168FF4Ca760768f42C440d4266BA705E2F21"
+}
